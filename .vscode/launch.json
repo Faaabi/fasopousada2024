@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-ProjetoPousadaApplication<projeto_pousada>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "br.univille.projeto_pousada.ProjetoPousadaApplication",
+            "projectName": "projeto_pousada",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
